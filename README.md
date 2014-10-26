@@ -2,4 +2,4 @@ Rupeewallet.in
 =========
 
 
-Cashback and coupnes website
+Cashback and coupons website
